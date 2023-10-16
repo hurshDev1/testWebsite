@@ -1,0 +1,14 @@
+body{
+    background-color: #414141;
+    color: #fff;
+}
+h1{
+    font-size: 4rem;
+}
+.displayhero{
+    background-color: cadetblue;
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
