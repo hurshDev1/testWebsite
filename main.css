@@ -12,3 +12,9 @@ h1{
     align-content: center;
     min-height: 100vh;
 }
+a{
+    color:white;
+}
+a:hover{
+    color:green;
+}
